@@ -1,0 +1,9 @@
+{
+    "name": "SignSense",
+    "version": "1.0.0",
+    "description": "Converts sign language to texts.",
+    "manifest_version": 3,
+    "action": {
+        "default-title": "SignSense"
+    }
+}
